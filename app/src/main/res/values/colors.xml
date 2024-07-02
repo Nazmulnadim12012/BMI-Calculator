@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="under_weight">#ECDA3C</color>
+    <color name="normal">#15DC1E</color>
+    <color name="over_weight">#E45E3D</color>
+    <color name="obese">#E60C0C</color>
+
+
+</resources>
